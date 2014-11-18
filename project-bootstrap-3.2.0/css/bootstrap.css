@@ -982,13 +982,13 @@ h2 {
   color: #F07C17;
   margin-top: 0;
   font-weight: 600;
-  margin-bottom: 30px;
 }
 p {
   font-size: 16px;
   line-height: 203%;
   color: #666666;
-  margin-bottom: 1.2em;
+  margin-top: 30px;
+  margin-bottom: 15px;
 }
 ul {
   font-size: 16px;
