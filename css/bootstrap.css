@@ -1339,9 +1339,9 @@ h2 {
 }
 p {
   font-size: 16px;
-  line-height: 200%;
+  line-height: 203%;
   color: #666666;
-  margin-bottom: 19px;
+  margin-bottom: 1.2em;
 }
 ul {
   font-size: 16px;
@@ -6191,7 +6191,7 @@ button.close {
 .features {
   border: 1px solid #cccccc;
   margin-top: 30px;
-  width: 375px;
+  width: 373px;
 }
 .features h2 {
   margin-left: 30px;
@@ -6200,5 +6200,5 @@ button.close {
 .features ul {
   margin-top: 30px;
   margin-left: 30px;
-  margin-bottom: 35px;
+  margin-bottom: 40px;
 }
