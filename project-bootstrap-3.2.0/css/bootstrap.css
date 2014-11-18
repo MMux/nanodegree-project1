@@ -973,21 +973,27 @@ hr {
 h1 {
   font-size: 46px;
   color: #666666;
-  margin-bottom: 22px;
+  margin-bottom: 30px;
   margin-top: 45px;
+  letter-spacing: 1px;
 }
 h2 {
   font-size: 24px;
   color: #F07C17;
   margin-top: 0;
+  font-weight: 600;
+  margin-bottom: 30px;
 }
 p {
   font-size: 16px;
-  line-height: 180%;
+  line-height: 200%;
   color: #666666;
+  margin-bottom: 19px;
 }
 ul {
+  font-size: 16px;
   line-height: 200%;
+  color: #666666;
 }
 code,
 kbd,

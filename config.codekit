@@ -3590,7 +3590,7 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/bootstrap.less": {
+	"\/project-bootstrap-3.2.0\/bootstrap.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3598,7 +3598,7 @@
 		"ieCompatibility": 1,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/bootstrap.less",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/bootstrap.less",
 		"outputAbbreviatedPath": "\/css\/bootstrap.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -3610,25 +3610,34 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/css\/bootstrap.css": {
+	"\/project-bootstrap-3.2.0\/css\/bootstrap.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/bootstrap.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/bootstrap.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/css\/theme.css": {
+	"\/project-bootstrap-3.2.0\/css\/summary.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/theme.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/summary.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/alerts.less": {
+	"\/project-bootstrap-3.2.0\/css\/theme.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/project-bootstrap-3.2.0\/less\/alerts.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3636,8 +3645,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/alerts.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/alerts.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/alerts.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/alerts.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3648,7 +3657,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/badges.less": {
+	"\/project-bootstrap-3.2.0\/less\/badges.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3656,8 +3665,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/badges.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/badges.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/badges.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/badges.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3668,7 +3677,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/bootstrap.less": {
+	"\/project-bootstrap-3.2.0\/less\/bootstrap.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3676,8 +3685,8 @@
 		"ieCompatibility": 1,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/bootstrap.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/bootstrap.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/bootstrap.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/bootstrap.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3688,7 +3697,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/breadcrumbs.less": {
+	"\/project-bootstrap-3.2.0\/less\/breadcrumbs.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3696,8 +3705,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/breadcrumbs.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/breadcrumbs.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/breadcrumbs.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/breadcrumbs.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3708,7 +3717,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/button-groups.less": {
+	"\/project-bootstrap-3.2.0\/less\/button-groups.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3716,8 +3725,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/button-groups.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/button-groups.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/button-groups.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/button-groups.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3728,7 +3737,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/buttons.less": {
+	"\/project-bootstrap-3.2.0\/less\/buttons.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3736,8 +3745,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/buttons.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/buttons.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/buttons.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/buttons.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3748,7 +3757,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/carousel.less": {
+	"\/project-bootstrap-3.2.0\/less\/carousel.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3756,8 +3765,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/carousel.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/carousel.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/carousel.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/carousel.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3768,7 +3777,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/close.less": {
+	"\/project-bootstrap-3.2.0\/less\/close.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3776,8 +3785,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/close.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/close.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/close.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/close.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3788,7 +3797,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/code.less": {
+	"\/project-bootstrap-3.2.0\/less\/code.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3796,8 +3805,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/code.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/code.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/code.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/code.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3808,7 +3817,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/component-animations.less": {
+	"\/project-bootstrap-3.2.0\/less\/component-animations.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3816,8 +3825,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/component-animations.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/component-animations.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/component-animations.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/component-animations.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3828,7 +3837,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/dropdowns.less": {
+	"\/project-bootstrap-3.2.0\/less\/dropdowns.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3836,8 +3845,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/dropdowns.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/dropdowns.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/dropdowns.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/dropdowns.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3848,7 +3857,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/forms.less": {
+	"\/project-bootstrap-3.2.0\/less\/forms.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3856,8 +3865,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/forms.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/forms.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/forms.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/forms.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3868,7 +3877,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/glyphicons.less": {
+	"\/project-bootstrap-3.2.0\/less\/glyphicons.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3876,8 +3885,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/glyphicons.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/glyphicons.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/glyphicons.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/glyphicons.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3888,7 +3897,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/grid.less": {
+	"\/project-bootstrap-3.2.0\/less\/grid.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3896,8 +3905,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/grid.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/grid.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/grid.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/grid.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3908,7 +3917,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/input-groups.less": {
+	"\/project-bootstrap-3.2.0\/less\/input-groups.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3916,8 +3925,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/input-groups.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/input-groups.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/input-groups.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/input-groups.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3928,7 +3937,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/jumbotron.less": {
+	"\/project-bootstrap-3.2.0\/less\/jumbotron.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3936,8 +3945,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/jumbotron.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/jumbotron.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/jumbotron.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/jumbotron.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3948,7 +3957,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/labels.less": {
+	"\/project-bootstrap-3.2.0\/less\/labels.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3956,8 +3965,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/labels.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/labels.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/labels.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/labels.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3968,7 +3977,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/list-group.less": {
+	"\/project-bootstrap-3.2.0\/less\/list-group.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3976,8 +3985,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/list-group.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/list-group.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/list-group.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/list-group.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3988,7 +3997,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/media.less": {
+	"\/project-bootstrap-3.2.0\/less\/media.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -3996,8 +4005,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/media.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/media.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/media.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/media.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4008,7 +4017,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4016,8 +4025,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/mixins.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/mixins.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4028,7 +4037,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/alerts.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/alerts.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4036,8 +4045,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/alerts.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/alerts.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/alerts.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/alerts.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4048,7 +4057,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/background-variant.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/background-variant.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4056,8 +4065,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/background-variant.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/background-variant.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/background-variant.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/background-variant.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4068,7 +4077,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/border-radius.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/border-radius.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4076,8 +4085,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/border-radius.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/border-radius.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/border-radius.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/border-radius.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4088,7 +4097,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/buttons.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/buttons.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4096,8 +4105,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/buttons.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/buttons.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/buttons.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/buttons.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4108,7 +4117,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/center-block.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/center-block.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4116,8 +4125,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/center-block.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/center-block.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/center-block.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/center-block.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4128,7 +4137,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/clearfix.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/clearfix.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4136,8 +4145,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/clearfix.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/clearfix.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/clearfix.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/clearfix.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4148,7 +4157,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/forms.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/forms.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4156,8 +4165,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/forms.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/forms.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/forms.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/forms.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4168,7 +4177,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/gradients.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/gradients.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4176,8 +4185,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/gradients.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/gradients.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/gradients.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/gradients.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4188,7 +4197,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/grid-framework.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/grid-framework.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4196,8 +4205,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/grid-framework.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/grid-framework.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/grid-framework.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/grid-framework.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4208,7 +4217,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/grid.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/grid.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4216,8 +4225,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/grid.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/grid.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/grid.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/grid.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4228,7 +4237,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/hide-text.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/hide-text.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4236,8 +4245,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/hide-text.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/hide-text.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/hide-text.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/hide-text.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4248,7 +4257,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/image.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/image.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4256,8 +4265,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/image.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/image.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/image.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/image.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4268,7 +4277,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/labels.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/labels.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4276,8 +4285,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/labels.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/labels.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/labels.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/labels.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4288,7 +4297,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/list-group.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/list-group.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4296,8 +4305,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/list-group.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/list-group.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/list-group.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/list-group.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4308,7 +4317,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/nav-divider.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/nav-divider.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4316,8 +4325,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/nav-divider.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/nav-divider.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/nav-divider.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/nav-divider.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4328,7 +4337,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/nav-vertical-align.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/nav-vertical-align.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4336,8 +4345,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/nav-vertical-align.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/nav-vertical-align.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/nav-vertical-align.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/nav-vertical-align.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4348,7 +4357,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/opacity.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/opacity.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4356,8 +4365,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/opacity.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/opacity.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/opacity.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/opacity.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4368,7 +4377,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/pagination.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/pagination.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4376,8 +4385,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/pagination.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/pagination.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/pagination.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/pagination.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4388,7 +4397,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/panels.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/panels.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4396,8 +4405,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/panels.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/panels.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/panels.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/panels.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4408,7 +4417,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/progress-bar.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/progress-bar.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4416,8 +4425,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/progress-bar.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/progress-bar.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/progress-bar.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/progress-bar.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4428,7 +4437,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/reset-filter.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/reset-filter.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4436,8 +4445,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/reset-filter.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/reset-filter.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/reset-filter.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/reset-filter.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4448,7 +4457,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/resize.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/resize.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4456,8 +4465,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/resize.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/resize.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/resize.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/resize.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4468,7 +4477,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/responsive-visibility.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/responsive-visibility.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4476,8 +4485,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/responsive-visibility.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/responsive-visibility.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/responsive-visibility.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/responsive-visibility.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4488,7 +4497,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/size.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/size.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4496,8 +4505,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/size.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/size.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/size.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/size.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4508,7 +4517,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/tab-focus.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/tab-focus.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4516,8 +4525,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/tab-focus.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/tab-focus.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/tab-focus.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/tab-focus.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4528,7 +4537,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/table-row.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/table-row.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4536,8 +4545,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/table-row.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/table-row.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/table-row.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/table-row.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4548,7 +4557,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/text-emphasis.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/text-emphasis.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4556,8 +4565,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/text-emphasis.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/text-emphasis.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/text-emphasis.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/text-emphasis.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4568,7 +4577,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/text-overflow.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/text-overflow.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4576,8 +4585,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/text-overflow.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/text-overflow.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/text-overflow.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/text-overflow.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4588,7 +4597,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/mixins\/vendor-prefixes.less": {
+	"\/project-bootstrap-3.2.0\/less\/mixins\/vendor-prefixes.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4596,8 +4605,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/mixins\/vendor-prefixes.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/css\/vendor-prefixes.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/mixins\/vendor-prefixes.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/css\/vendor-prefixes.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4608,7 +4617,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/modals.less": {
+	"\/project-bootstrap-3.2.0\/less\/modals.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4616,8 +4625,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/modals.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/modals.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/modals.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/modals.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4628,7 +4637,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/navbar.less": {
+	"\/project-bootstrap-3.2.0\/less\/navbar.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4636,8 +4645,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/navbar.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/navbar.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/navbar.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/navbar.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4648,7 +4657,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/navs.less": {
+	"\/project-bootstrap-3.2.0\/less\/navs.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4656,8 +4665,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/navs.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/navs.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/navs.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/navs.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4668,7 +4677,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/normalize.less": {
+	"\/project-bootstrap-3.2.0\/less\/normalize.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4676,8 +4685,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/normalize.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/normalize.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/normalize.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/normalize.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4688,7 +4697,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/pager.less": {
+	"\/project-bootstrap-3.2.0\/less\/pager.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4696,8 +4705,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/pager.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/pager.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/pager.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/pager.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4708,7 +4717,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/pagination.less": {
+	"\/project-bootstrap-3.2.0\/less\/pagination.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4716,8 +4725,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/pagination.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/pagination.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/pagination.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/pagination.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4728,7 +4737,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/panels.less": {
+	"\/project-bootstrap-3.2.0\/less\/panels.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4736,8 +4745,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/panels.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/panels.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/panels.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/panels.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4748,7 +4757,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/popovers.less": {
+	"\/project-bootstrap-3.2.0\/less\/popovers.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4756,8 +4765,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/popovers.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/popovers.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/popovers.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/popovers.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4768,7 +4777,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/print.less": {
+	"\/project-bootstrap-3.2.0\/less\/print.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4776,8 +4785,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/print.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/print.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/print.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/print.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4788,7 +4797,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/progress-bars.less": {
+	"\/project-bootstrap-3.2.0\/less\/progress-bars.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4796,8 +4805,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/progress-bars.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/progress-bars.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/progress-bars.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/progress-bars.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4808,7 +4817,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/responsive-embed.less": {
+	"\/project-bootstrap-3.2.0\/less\/responsive-embed.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4816,8 +4825,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/responsive-embed.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/responsive-embed.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/responsive-embed.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/responsive-embed.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4828,7 +4837,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/responsive-utilities.less": {
+	"\/project-bootstrap-3.2.0\/less\/responsive-utilities.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4836,8 +4845,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/responsive-utilities.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/responsive-utilities.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/responsive-utilities.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/responsive-utilities.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4848,7 +4857,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/scaffolding.less": {
+	"\/project-bootstrap-3.2.0\/less\/scaffolding.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4856,8 +4865,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/scaffolding.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/scaffolding.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/scaffolding.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/scaffolding.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4868,7 +4877,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/tables.less": {
+	"\/project-bootstrap-3.2.0\/less\/summary.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4876,8 +4885,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/tables.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/tables.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/summary.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/summary.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4888,7 +4897,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/theme.less": {
+	"\/project-bootstrap-3.2.0\/less\/tables.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4896,8 +4905,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/theme.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/theme.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/tables.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/tables.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4908,16 +4917,36 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/thumbnails.less": {
+	"\/project-bootstrap-3.2.0\/less\/theme.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/theme.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/theme.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/project-bootstrap-3.2.0\/less\/thumbnails.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/thumbnails.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/thumbnails.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/thumbnails.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/thumbnails.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4928,7 +4957,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/tooltip.less": {
+	"\/project-bootstrap-3.2.0\/less\/tooltip.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4936,8 +4965,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/tooltip.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/tooltip.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/tooltip.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/tooltip.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4948,7 +4977,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/type.less": {
+	"\/project-bootstrap-3.2.0\/less\/type.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4956,8 +4985,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/type.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/type.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/type.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/type.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4968,7 +4997,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/utilities.less": {
+	"\/project-bootstrap-3.2.0\/less\/utilities.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4976,8 +5005,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/utilities.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/utilities.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/utilities.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/utilities.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -4988,7 +5017,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/variables.less": {
+	"\/project-bootstrap-3.2.0\/less\/variables.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -4996,8 +5025,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/variables.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/variables.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/variables.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/variables.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -5008,7 +5037,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/portfolio-bootstrap-3.2.0\/less\/wells.less": {
+	"\/project-bootstrap-3.2.0\/less\/wells.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -5016,8 +5045,8 @@
 		"ieCompatibility": 1,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/less\/wells.less",
-		"outputAbbreviatedPath": "\/portfolio-bootstrap-3.2.0\/css\/wells.css",
+		"inputAbbreviatedPath": "\/project-bootstrap-3.2.0\/less\/wells.less",
+		"outputAbbreviatedPath": "\/project-bootstrap-3.2.0\/css\/wells.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
